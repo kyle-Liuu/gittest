@@ -32,7 +32,6 @@ def interface():
 
 if __name__ == '__main__':
     # app.debug = True
-    # 推荐的json格式化网页工具：https://www.sojson.com/
 
     # 接收报警接口的数据上传
     # http://127.0.0.1:8072/interface
